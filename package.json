@@ -1,6 +1,6 @@
 {
   "name": "steam-id-convertor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert SteamIds from 32-bit to 64-bit numbers and vice versa",
   "main": "index.js",
   "scripts": {
