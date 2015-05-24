@@ -1,0 +1,25 @@
+{
+  "name": "steam-id-convertor",
+  "version": "1.0.0",
+  "description": "Convert SteamIds from 32-bit to 64-bit numbers and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorangajic/steam-id-convertor.git"
+  },
+  "author": {
+    "name": "Goran Gajic",
+    "email": "fero.null@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^2.0.7"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  }
+}
